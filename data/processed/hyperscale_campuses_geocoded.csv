@@ -1,0 +1,117 @@
+operator,campus,place,county,state,status,scale,confidence,lat,lon,geocode
+Google,The Dalles,The Dalles,,OR,operating,100MW+,high,45.598386,-121.152411,place
+Google,Council Bluffs,Council Bluffs,,IA,operating,100MW+,high,41.235987,-95.853163,place
+Google,Papillion,Papillion,,NE,operating,100MW+,high,41.143376,-96.07809,place
+Google,Omaha,Omaha,,NE,operating,100MW+,medium,41.262705,-96.053475,place
+Google,Lenoir,Lenoir,,NC,operating,100MW+,high,35.907679,-81.524827,place
+Google,Berkeley County (Moncks Corner),Moncks Corner,,SC,operating,100MW+,high,33.199763,-79.986603,place
+Google,Mayes County (Pryor),Pryor Creek,,OK,operating,100MW+,high,36.299675,-95.311286,place
+Google,Douglas County,Lithia Springs,,GA,operating,100MW+,high,33.782487,-84.648488,place
+Google,Montgomery County (Clarksville),Clarksville,,TN,operating,100MW+,high,36.56643,-87.345216,place
+Google,Midlothian,Midlothian,,TX,operating,100MW+,high,32.469436,-96.99067,place
+Google,Red Oak,Red Oak,,TX,under_construction,100MW+,medium,32.509552,-96.78398,place
+Google,Henderson,Henderson,,NV,operating,100MW+,high,36.008958,-115.0268,place
+Google,Storey County (TRIC),,Storey County,NV,operating,100MW+,high,39.438385,-119.524646,county
+Google,New Albany,New Albany,,OH,operating,100MW+,high,40.09,-82.776349,place
+Google,Lancaster,Lancaster,,OH,under_construction,100MW+,medium,39.725228,-82.605246,place
+Google,Mesa,Mesa,,AZ,operating,100MW+,high,33.400626,-111.716487,place
+Google,Loudoun County,Leesburg,,VA,operating,100MW+,high,39.106396,-77.559195,place
+Google,Kansas City (Northland),Kansas City,,MO,under_construction,100MW+,medium,39.122361,-94.555117,place
+Google,Fort Wayne,Fort Wayne,,IN,under_construction,100MW+,medium,41.089132,-85.1439,place
+Google,Pine Island,Pine Island,,MN,announced,100MW+,medium,44.198124,-92.628119,place
+Google,West Memphis,West Memphis,,AR,under_construction,100MW+,high,35.149554,-90.199266,place
+Google,LaGrange,LaGrange,,GA,under_construction,100MW+,medium,33.02698,-85.038261,place
+Google,Putnam County,,Putnam County,WV,announced,100MW+,medium,38.510518,-81.906109,county
+Microsoft,Quincy,Quincy,,WA,operating,100MW+,high,47.234905,-119.8525,place
+Microsoft,San Antonio,San Antonio,,TX,operating,100MW+,high,29.462809,-98.524635,place
+Microsoft,West Des Moines,West Des Moines,,IA,operating,100MW+,high,41.549937,-93.781351,place
+Microsoft,Boydton,Boydton,,VA,operating,100MW+,high,36.66606,-78.390727,place
+Microsoft,Cheyenne,Cheyenne,,WY,operating,100MW+,high,41.12727,-104.79022,place
+Microsoft,Fairwater Mount Pleasant,Mount Pleasant,,WI,operating,1GW+,high,42.708832,-87.884894,place
+Microsoft,Goodyear,Goodyear,,AZ,operating,100MW+,high,33.254031,-112.366472,place
+Microsoft,El Mirage,El Mirage,,AZ,operating,100MW+,medium,33.590224,-112.327102,place
+Microsoft,Fairwater Atlanta,Atlanta,,GA,operating,1GW+,medium,33.762909,-84.422675,place
+Microsoft,Licking County,Heath,,OH,under_construction,100MW+,medium,40.020814,-82.442075,place
+Microsoft,Northlake,Northlake,,IL,operating,100MW+,medium,41.914316,-87.905486,place
+Microsoft,San Jose,San Jose,,CA,operating,100MW+,low,37.296011,-121.814552,place
+Amazon,Ashburn,Ashburn,,VA,operating,1GW+,high,39.027296,-77.471322,place
+Amazon,Manassas,Manassas,,VA,operating,100MW+,high,38.746808,-77.482633,place
+Amazon,Boardman,Boardman,,OR,operating,1GW+,high,45.836507,-119.692793,place
+Amazon,Umatilla,Umatilla,,OR,operating,100MW+,high,45.917612,-119.331979,place
+Amazon,Hilliard,Hilliard,,OH,operating,100MW+,high,40.034719,-83.157788,place
+Amazon,Dublin,Dublin,,OH,operating,100MW+,high,40.113304,-83.145774,place
+Amazon,New Albany,New Albany,,OH,operating,100MW+,medium,40.09,-82.776349,place
+Amazon,New Carlisle,New Carlisle,,IN,operating,1GW+,high,41.706572,-86.507154,place
+Amazon,Madison County (Canton),Canton,,MS,under_construction,100MW+,high,32.598419,-90.032191,place
+Amazon,Susquehanna (Salem Township),Berwick,,PA,under_construction,1GW+,high,41.05499,-76.25101,place
+Amazon,Louisa County,,Louisa County,VA,under_construction,100MW+,medium,37.972704,-77.959795,county
+Amazon,Caroline County,,Caroline County,VA,announced,100MW+,medium,38.028033,-77.353736,county
+Amazon,Stafford County,,Stafford County,VA,under_construction,100MW+,medium,38.423084,-77.458048,county
+Meta,Prineville,Prineville,,OR,operating,100MW+,high,44.29854,-120.860718,place
+Meta,Forest City,Forest City,,NC,operating,100MW+,high,35.334708,-81.870751,place
+Meta,Altoona,Altoona,,IA,operating,100MW+,high,41.646353,-93.478611,place
+Meta,Fort Worth,Fort Worth,,TX,operating,100MW+,high,32.781954,-97.348573,place
+Meta,Los Lunas,Los Lunas,,NM,operating,100MW+,high,34.80087,-106.788691,place
+Meta,Sarpy County,Papillion,,NE,operating,100MW+,high,41.143376,-96.07809,place
+Meta,Henrico,,Henrico County,VA,operating,100MW+,high,37.43752,-77.300333,county
+Meta,New Albany,New Albany,,OH,operating,100MW+,high,40.09,-82.776349,place
+Meta,Eagle Mountain,Eagle Mountain,,UT,operating,100MW+,high,40.31432,-112.011708,place
+Meta,Huntsville,Huntsville,,AL,operating,100MW+,high,34.69772,-86.67667,place
+Meta,DeKalb,DeKalb,,IL,operating,100MW+,high,41.928873,-88.746359,place
+Meta,Gallatin,Gallatin,,TN,operating,100MW+,high,36.381524,-86.467021,place
+Meta,Stanton Springs,Stanton Springs,Newton County,GA,operating,100MW+,high,33.552751,-83.85136,county
+Meta,Mesa,Mesa,,AZ,operating,100MW+,high,33.400626,-111.716487,place
+Meta,Kansas City,Kansas City,,MO,operating,100MW+,high,39.122361,-94.555117,place
+Meta,Kuna,Kuna,,ID,under_construction,100MW+,high,43.52484,-116.403639,place
+Meta,Jeffersonville,Jeffersonville,,IN,under_construction,100MW+,medium,38.332415,-85.696087,place
+Meta,Temple,Temple,,TX,under_construction,100MW+,high,31.10345,-97.391124,place
+Meta,El Paso,El Paso,,TX,under_construction,1GW+,high,31.84778,-106.431106,place
+Meta,Prometheus (New Albany),New Albany,,OH,operating,1GW+,high,40.09,-82.776349,place
+Meta,Hyperion (Richland Parish),,Richland Parish,LA,under_construction,1GW+,high,32.413158,-91.748353,county
+Meta,Lebanon,Lebanon,,IN,under_construction,1GW+,medium,40.033106,-86.448155,place
+Meta,Mason County,,Mason County,KY,announced,100MW+,medium,38.594137,-83.828125,county
+Meta,Aiken County,,Aiken County,SC,announced,100MW+,low,33.550013,-81.632983,county
+Meta,Rosemount,Rosemount,,MN,under_construction,100MW+,medium,44.745814,-93.068864,place
+Apple,Maiden,Maiden,,NC,operating,100MW+,high,35.591493,-81.231539,place
+Apple,Prineville,Prineville,,OR,operating,100MW+,high,44.29854,-120.860718,place
+Apple,Reno,Reno,,NV,operating,100MW+,high,39.549097,-119.849907,place
+Apple,Mesa,Mesa,,AZ,operating,100MW+,high,33.400626,-111.716487,place
+Apple,Waukee,Waukee,,IA,under_construction,100MW+,medium,41.59048,-93.882818,place
+OpenAI/Oracle (Stargate),Abilene,Abilene,,TX,operating,1GW+,high,32.454514,-99.738147,place
+OpenAI/Oracle (Stargate),Shackelford County,,Shackelford County,TX,under_construction,1GW+,high,32.74382,-99.347005,county
+OpenAI/Oracle (Stargate),Dona Ana County,,Doña Ana County,NM,under_construction,1GW+,medium,32.349919,-106.834968,county
+OpenAI/Oracle (Stargate),Lordstown,Lordstown,,OH,under_construction,100MW+,medium,41.170976,-80.866271,place
+OpenAI/Oracle (Stargate),Milam County,,Milam County,TX,under_construction,1GW+,medium,30.791242,-96.984395,county
+OpenAI/Related (Stargate),Saline Township,,Washtenaw County,MI,announced,1GW+,medium,42.252217,-83.843423,county
+OpenAI,PORTS (Piketon),Piketon,,OH,announced,1GW+,medium,39.06595,-82.997131,place
+xAI,Colossus 1,Memphis,,TN,operating,100MW+,high,35.109026,-89.967455,place
+xAI,Colossus 2,Southaven,,MS,operating,1GW+,high,34.951005,-89.977669,place
+Oracle,Port Washington,Port Washington,,WI,under_construction,1GW+,medium,43.384921,-87.884134,place
+CoreWeave/Applied Digital,Ellendale,Ellendale,,ND,operating,100MW+,high,46.004354,-98.525354,place
+Crusoe,Cheyenne,Cheyenne,,WY,under_construction,1GW+,medium,41.12727,-104.79022,place
+QTS,Atlanta,Atlanta,,GA,operating,100MW+,high,33.762909,-84.422675,place
+QTS,Fayetteville,Fayetteville,,GA,operating,1GW+,high,33.449099,-84.472824,place
+QTS,Richmond,Richmond,,VA,operating,100MW+,high,37.531399,-77.476009,place
+QTS,Cedar Rapids,Cedar Rapids,,IA,under_construction,100MW+,medium,41.96585,-91.678901,place
+QTS,Phoenix,Phoenix,,AZ,operating,100MW+,high,33.572154,-112.090132,place
+QTS,Irving,Irving,,TX,operating,100MW+,high,32.857748,-96.970022,place
+QTS,Hall County,,Hall County,TX,announced,1GW+,medium,34.453189,-100.576343,county
+Switch,Las Vegas,Las Vegas,,NV,operating,1GW+,high,36.233499,-115.264037,place
+Switch,Citadel (TRIC),,Storey County,NV,operating,100MW+,high,39.438385,-119.524646,county
+Switch,Grand Rapids,Kentwood,,MI,operating,100MW+,medium,42.88482,-85.59254,place
+Vantage,Frontier,,Shackelford County,TX,under_construction,1GW+,high,32.74382,-99.347005,county
+Vantage,Storey County (TRIC),,Storey County,NV,announced,100MW+,medium,39.438385,-119.524646,county
+Aligned,Plano,Plano,,TX,operating,100MW+,high,33.050769,-96.747944,place
+Aligned,Project Caprock,,Hale County,TX,announced,100MW+,medium,34.068436,-101.822888,county
+Compass,Red Oak,Red Oak,,TX,operating,100MW+,high,32.509552,-96.78398,place
+CyrusOne,Sterling,Sterling,,VA,operating,100MW+,high,39.004733,-77.405368,place
+CyrusOne,Carrollton,Carrollton,,TX,operating,100MW+,high,32.989386,-96.89994,place
+Digital Realty,Ashburn,Ashburn,,VA,operating,1GW+,high,39.027296,-77.471322,place
+Digital Realty,Richardson,Richardson,,TX,operating,100MW+,high,32.972291,-96.708069,place
+Stack,Hillsboro,Hillsboro,,OR,operating,100MW+,high,45.526798,-122.935395,place
+Various,Prince William County,,Prince William County,VA,operating,1GW+,high,38.701119,-77.479579,county
+Various,Culpeper,Culpeper,,VA,operating,100MW+,medium,38.470292,-77.999764,place
+Various,Hillsboro,Hillsboro,,OR,operating,1GW+,high,45.526798,-122.935395,place
+Various,Santa Clara,Santa Clara,,CA,operating,100MW+,high,37.364621,-121.967973,place
+Various,Elk Grove Village,Elk Grove Village,,IL,operating,100MW+,high,42.00497,-87.991983,place
+Fermi America,Project Matador,,Carson County,TX,announced,1GW+,low,35.405496,-101.355356,county

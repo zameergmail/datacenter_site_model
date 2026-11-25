@@ -1,0 +1,117 @@
+operator,campus,place,county,state,status,scale,confidence
+Google,The Dalles,The Dalles,,OR,operating,100MW+,high
+Google,Council Bluffs,Council Bluffs,,IA,operating,100MW+,high
+Google,Papillion,Papillion,,NE,operating,100MW+,high
+Google,Omaha,Omaha,,NE,operating,100MW+,medium
+Google,Lenoir,Lenoir,,NC,operating,100MW+,high
+Google,Berkeley County (Moncks Corner),Moncks Corner,,SC,operating,100MW+,high
+Google,Mayes County (Pryor),Pryor Creek,,OK,operating,100MW+,high
+Google,Douglas County,Lithia Springs,,GA,operating,100MW+,high
+Google,Montgomery County (Clarksville),Clarksville,,TN,operating,100MW+,high
+Google,Midlothian,Midlothian,,TX,operating,100MW+,high
+Google,Red Oak,Red Oak,,TX,under_construction,100MW+,medium
+Google,Henderson,Henderson,,NV,operating,100MW+,high
+Google,Storey County (TRIC),,Storey County,NV,operating,100MW+,high
+Google,New Albany,New Albany,,OH,operating,100MW+,high
+Google,Lancaster,Lancaster,,OH,under_construction,100MW+,medium
+Google,Mesa,Mesa,,AZ,operating,100MW+,high
+Google,Loudoun County,Leesburg,,VA,operating,100MW+,high
+Google,Kansas City (Northland),Kansas City,,MO,under_construction,100MW+,medium
+Google,Fort Wayne,Fort Wayne,,IN,under_construction,100MW+,medium
+Google,Pine Island,Pine Island,,MN,announced,100MW+,medium
+Google,West Memphis,West Memphis,,AR,under_construction,100MW+,high
+Google,LaGrange,LaGrange,,GA,under_construction,100MW+,medium
+Google,Putnam County,,Putnam County,WV,announced,100MW+,medium
+Microsoft,Quincy,Quincy,,WA,operating,100MW+,high
+Microsoft,San Antonio,San Antonio,,TX,operating,100MW+,high
+Microsoft,West Des Moines,West Des Moines,,IA,operating,100MW+,high
+Microsoft,Boydton,Boydton,,VA,operating,100MW+,high
+Microsoft,Cheyenne,Cheyenne,,WY,operating,100MW+,high
+Microsoft,Fairwater Mount Pleasant,Mount Pleasant,,WI,operating,1GW+,high
+Microsoft,Goodyear,Goodyear,,AZ,operating,100MW+,high
+Microsoft,El Mirage,El Mirage,,AZ,operating,100MW+,medium
+Microsoft,Fairwater Atlanta,Atlanta,,GA,operating,1GW+,medium
+Microsoft,Licking County,Heath,,OH,under_construction,100MW+,medium
+Microsoft,Northlake,Northlake,,IL,operating,100MW+,medium
+Microsoft,San Jose,San Jose,,CA,operating,100MW+,low
+Amazon,Ashburn,Ashburn,,VA,operating,1GW+,high
+Amazon,Manassas,Manassas,,VA,operating,100MW+,high
+Amazon,Boardman,Boardman,,OR,operating,1GW+,high
+Amazon,Umatilla,Umatilla,,OR,operating,100MW+,high
+Amazon,Hilliard,Hilliard,,OH,operating,100MW+,high
+Amazon,Dublin,Dublin,,OH,operating,100MW+,high
+Amazon,New Albany,New Albany,,OH,operating,100MW+,medium
+Amazon,New Carlisle,New Carlisle,,IN,operating,1GW+,high
+Amazon,Madison County (Canton),Canton,,MS,under_construction,100MW+,high
+Amazon,Susquehanna (Salem Township),Berwick,,PA,under_construction,1GW+,high
+Amazon,Louisa County,,Louisa County,VA,under_construction,100MW+,medium
+Amazon,Caroline County,,Caroline County,VA,announced,100MW+,medium
+Amazon,Stafford County,,Stafford County,VA,under_construction,100MW+,medium
+Meta,Prineville,Prineville,,OR,operating,100MW+,high
+Meta,Forest City,Forest City,,NC,operating,100MW+,high
+Meta,Altoona,Altoona,,IA,operating,100MW+,high
+Meta,Fort Worth,Fort Worth,,TX,operating,100MW+,high
+Meta,Los Lunas,Los Lunas,,NM,operating,100MW+,high
+Meta,Sarpy County,Papillion,,NE,operating,100MW+,high
+Meta,Henrico,,Henrico County,VA,operating,100MW+,high
+Meta,New Albany,New Albany,,OH,operating,100MW+,high
+Meta,Eagle Mountain,Eagle Mountain,,UT,operating,100MW+,high
+Meta,Huntsville,Huntsville,,AL,operating,100MW+,high
+Meta,DeKalb,DeKalb,,IL,operating,100MW+,high
+Meta,Gallatin,Gallatin,,TN,operating,100MW+,high
+Meta,Stanton Springs,Stanton Springs,Newton County,GA,operating,100MW+,high
+Meta,Mesa,Mesa,,AZ,operating,100MW+,high
+Meta,Kansas City,Kansas City,,MO,operating,100MW+,high
+Meta,Kuna,Kuna,,ID,under_construction,100MW+,high
+Meta,Jeffersonville,Jeffersonville,,IN,under_construction,100MW+,medium
+Meta,Temple,Temple,,TX,under_construction,100MW+,high
+Meta,El Paso,El Paso,,TX,under_construction,1GW+,high
+Meta,Prometheus (New Albany),New Albany,,OH,operating,1GW+,high
+Meta,Hyperion (Richland Parish),,Richland Parish,LA,under_construction,1GW+,high
+Meta,Lebanon,Lebanon,,IN,under_construction,1GW+,medium
+Meta,Mason County,,Mason County,KY,announced,100MW+,medium
+Meta,Aiken County,,Aiken County,SC,announced,100MW+,low
+Meta,Rosemount,Rosemount,,MN,under_construction,100MW+,medium
+Apple,Maiden,Maiden,,NC,operating,100MW+,high
+Apple,Prineville,Prineville,,OR,operating,100MW+,high
+Apple,Reno,Reno,,NV,operating,100MW+,high
+Apple,Mesa,Mesa,,AZ,operating,100MW+,high
+Apple,Waukee,Waukee,,IA,under_construction,100MW+,medium
+OpenAI/Oracle (Stargate),Abilene,Abilene,,TX,operating,1GW+,high
+OpenAI/Oracle (Stargate),Shackelford County,,Shackelford County,TX,under_construction,1GW+,high
+OpenAI/Oracle (Stargate),Dona Ana County,,Doña Ana County,NM,under_construction,1GW+,medium
+OpenAI/Oracle (Stargate),Lordstown,Lordstown,,OH,under_construction,100MW+,medium
+OpenAI/Oracle (Stargate),Milam County,,Milam County,TX,under_construction,1GW+,medium
+OpenAI/Related (Stargate),Saline Township,,Washtenaw County,MI,announced,1GW+,medium
+OpenAI,PORTS (Piketon),Piketon,,OH,announced,1GW+,medium
+xAI,Colossus 1,Memphis,,TN,operating,100MW+,high
+xAI,Colossus 2,Southaven,,MS,operating,1GW+,high
+Oracle,Port Washington,Port Washington,,WI,under_construction,1GW+,medium
+CoreWeave/Applied Digital,Ellendale,Ellendale,,ND,operating,100MW+,high
+Crusoe,Cheyenne,Cheyenne,,WY,under_construction,1GW+,medium
+QTS,Atlanta,Atlanta,,GA,operating,100MW+,high
+QTS,Fayetteville,Fayetteville,,GA,operating,1GW+,high
+QTS,Richmond,Richmond,,VA,operating,100MW+,high
+QTS,Cedar Rapids,Cedar Rapids,,IA,under_construction,100MW+,medium
+QTS,Phoenix,Phoenix,,AZ,operating,100MW+,high
+QTS,Irving,Irving,,TX,operating,100MW+,high
+QTS,Hall County,,Hall County,TX,announced,1GW+,medium
+Switch,Las Vegas,Las Vegas,,NV,operating,1GW+,high
+Switch,Citadel (TRIC),,Storey County,NV,operating,100MW+,high
+Switch,Grand Rapids,Kentwood,,MI,operating,100MW+,medium
+Vantage,Frontier,,Shackelford County,TX,under_construction,1GW+,high
+Vantage,Storey County (TRIC),,Storey County,NV,announced,100MW+,medium
+Aligned,Plano,Plano,,TX,operating,100MW+,high
+Aligned,Project Caprock,,Hale County,TX,announced,100MW+,medium
+Compass,Red Oak,Red Oak,,TX,operating,100MW+,high
+CyrusOne,Sterling,Sterling,,VA,operating,100MW+,high
+CyrusOne,Carrollton,Carrollton,,TX,operating,100MW+,high
+Digital Realty,Ashburn,Ashburn,,VA,operating,1GW+,high
+Digital Realty,Richardson,Richardson,,TX,operating,100MW+,high
+Stack,Hillsboro,Hillsboro,,OR,operating,100MW+,high
+Various,Prince William County,,Prince William County,VA,operating,1GW+,high
+Various,Culpeper,Culpeper,,VA,operating,100MW+,medium
+Various,Hillsboro,Hillsboro,,OR,operating,1GW+,high
+Various,Santa Clara,Santa Clara,,CA,operating,100MW+,high
+Various,Elk Grove Village,Elk Grove Village,,IL,operating,100MW+,high
+Fermi America,Project Matador,,Carson County,TX,announced,1GW+,low
